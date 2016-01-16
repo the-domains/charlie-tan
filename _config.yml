@@ -1,18 +1,15 @@
-color:
-  brandStrength: 1
-  saturation: 0.05649241
-  brandColors:
-    - '#F5F4F0'
-    - '#010101'
-    - '#30302F'
-    - '#5C5C5A'
-    - '#B6B5B2'
-  lightness: 1
-  rhythmicContrast: 0.06661046
+layout_spectrum: 0
+favicon: null
+name: Charlie Tan
+purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -26,15 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  version: null
   bucket: null
-favicon: null
-layout_spectrum: 0
-purpose: []
-name: Charlie Tan
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5505902
+  version: null
+  domain: null
+color:
+  brandStrength: 1
+  saturation: 0.05649241
+  brandColors:
+    - '#F5F4F0'
+    - '#010101'
+    - '#30302F'
+    - '#5C5C5A'
+    - '#B6B5B2'
+  lightness: 1
+  rhythmicContrast: 0.06661046
+typography_spectrum: 0.1627319
