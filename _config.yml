@@ -1,0 +1,28 @@
+name: Charlie Tan
+favicon: null
+layout_spectrum: 0.9374082698486745
+typography_spectrum: 0.12443856941536069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06989015941508114
+  lightness: 0.047945937141776085
+  saturation: 0.08403167244978249
+  rhythmicContrast: 0.49632848845794797
+purpose: []
