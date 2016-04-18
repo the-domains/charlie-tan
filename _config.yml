@@ -19,22 +19,22 @@ purpose: []
 typography_spectrum: 0.1627319
 color:
   saturation: 0.8093448
-  brandStrength: 1
+  brandStrength: 0.8888292
   lightness: 0.6288937
   brandColors:
-    - '#F5F4F0'
-    - '#010101'
-    - '#30302F'
-    - '#5C5C5A'
-    - '#B6B5B2'
+    - '#70603C'
+    - '#C7C4BF'
+    - '#39311A'
+    - '#948878'
+    - '#0E0D09'
   rhythmicContrast: 0.7062299
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.4473684
 analytics:
   twitter: null
   google: null
   facebook: null
-layout_spectrum: 0.4473684
 name: Charlie Tan
