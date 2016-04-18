@@ -1,40 +1,40 @@
-layout_spectrum: 0.2284992
-favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Charlie Tan
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
-cta:
-  bucket: null
-  version: null
-  domain: null
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+typography_spectrum: 0.1627319
 color:
+  saturation: 0.5601504
   brandStrength: 1
-  saturation: 0.05649241
+  lightness: 1
   brandColors:
     - '#F5F4F0'
     - '#010101'
     - '#30302F'
     - '#5C5C5A'
     - '#B6B5B2'
-  lightness: 1
   rhythmicContrast: 0.06661046
-typography_spectrum: 0.1627319
+layout_spectrum: 0.2284992
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
