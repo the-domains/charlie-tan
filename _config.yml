@@ -1,4 +1,8 @@
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Charlie Tan
 opengraph:
   image: null
   type: null
@@ -18,23 +22,19 @@ collections:
 purpose: []
 typography_spectrum: 0.1627319
 color:
-  saturation: 0.5601504
+  saturation: 0.7556391
   brandStrength: 1
-  lightness: 1
+  lightness: 0.7556391
   brandColors:
     - '#F5F4F0'
     - '#010101'
     - '#30302F'
     - '#5C5C5A'
     - '#B6B5B2'
-  rhythmicContrast: 0.06661046
+  rhythmicContrast: 0.3281417
+layout_spectrum: 0.5322234
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.5322234
-name: Charlie Tan
+favicon: null
