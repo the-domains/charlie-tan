@@ -1,5 +1,4 @@
-layout_spectrum: 0.689044
-name: Charlie Tan
+favicon: null
 opengraph:
   image: null
   type: null
@@ -29,12 +28,13 @@ color:
     - '#948878'
     - '#0E0D09'
   rhythmicContrast: 0.7062299
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.9070892
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Charlie Tan
