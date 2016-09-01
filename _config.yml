@@ -26,11 +26,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Charlie Tan
 favicon: null
+name: Charlie Tan
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3990332
-layout_spectrum: 1
+layout_spectrum: 0.9930182
