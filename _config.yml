@@ -22,15 +22,15 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Charlie Tan
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3990332
-layout_spectrum: 0.8759398
+layout_spectrum: 1
