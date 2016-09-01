@@ -18,19 +18,19 @@ color:
   brandColors:
     - '#ffffff'
   rhythmicContrast: 0.3088077
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Charlie Tan
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.3990332
-layout_spectrum: 0.4548872
+layout_spectrum: 0.6836735
