@@ -5,15 +5,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.2808808
-  brandStrength: 0.125
+  brandStrength: 0.3034371
   lightness: 0.6632653
   brandColors:
     - '#ffffff'
@@ -22,11 +22,11 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Charlie Tan
 opengraph:
   image: null
